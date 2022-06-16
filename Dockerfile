@@ -1,5 +1,5 @@
 FROM openjdk:8u212-jdk-slim
-LABEL maintainer="savindi.narmada@gmail.com"
+LABEL maintainer="ionut.porumb0203@gmail.com"
 VOLUME /tmp
 EXPOSE 8080
 ARG JAR_FILE=target/codestatebkend-0.0.1-SNAPSHOT.jar
