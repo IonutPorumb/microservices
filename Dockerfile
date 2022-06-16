@@ -1,4 +1,4 @@
-FROM openjdk:8u212-jdk-slim
+FROM openjdk:11.0.15-jdk-slim
 LABEL maintainer="ionut.porumb0203@gmail.com"
 VOLUME /tmp
 EXPOSE 8080
